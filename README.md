@@ -56,7 +56,7 @@ lib/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/age-calculator-pro.git
+git clone https://github.com/aiwithmaaz/age-calculator-pro.git
 
 ```
 
@@ -97,6 +97,12 @@ flutter run
 ---
 
 ## 📱 Screenshots
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e85cb797-5644-4202-8c29-f321cb34ce7f" />
+
+<img width="1600" height="798" alt="image" src="https://github.com/user-attachments/assets/00f2e42a-c140-4561-8aab-867b22a1634f" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0061e85b-2f37-4f81-85e5-78b65d7ac434" />
+
 
 ---
 
@@ -105,5 +111,3 @@ flutter run
 Contributions are welcome! If you have ideas for new "Fun Stats" or UI improvements, feel free to fork the repo and submit a pull request.
 
 ---
-
-**Are you planning to host this on GitHub, and would you like me to help you write the `LICENSE` file or a contribution guide to go with it?**
